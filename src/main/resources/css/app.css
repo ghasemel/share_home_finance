@@ -1,0 +1,12 @@
+.table-column {
+    -fx-alignment: CENTER;
+    -fx-font-size: 1.4em;
+}
+
+.text-field {
+    -fx-font-weight: bold;
+}
+
+.glyph-icon {
+    -glyph-size: 20px;
+}

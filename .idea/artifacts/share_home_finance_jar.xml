@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="share_home_finance:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/share_home_finance_jar</output-path>
+    <root id="archive" name="share_home_finance.jar">
+      <element id="module-output" name="share_home_finance" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/controlsfx/controlsfx/8.40.15/controlsfx-8.40.15.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/de/jensd/fontawesomefx/8.9/fontawesomefx-8.9.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/projectlombok/lombok/1.18.10/lombok-1.18.10.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
