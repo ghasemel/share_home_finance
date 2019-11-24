@@ -1,10 +1,10 @@
 
-isquid:UselessImportCheck">Remove this unused import 'javafx.beans.value.ChangeListener'.(¸÷Í8Î£Í”Û-
+jsquid:CommentedOutCodeLine‹"<This block of commented-out lines of code should be removed.(Óíà™8Î£Í”Û-
+Œsquid:S4144Ì"hUpdate this method so that its implementation is not identical to "onChkAmirSelectedChange" on line 194.(Øº”¦şÿÿÿÿ8™Æ•Û-
+Ksquid:S1602—",Remove useless curly braces around statement(ÃÉş©8Î£Í”Û-
+jsquid:UselessImportCheck":Remove this unused import 'de.jensd.fx.glyphs.GlyphIcons'.(áªÚÁûÿÿÿÿ8Î£Í”Û-
 zsquid:UselessImportCheck	"JRemove this unused import 'de.jensd.fx.glyphs.materialicons.MaterialIcon'.(¡Ë±Öøÿÿÿÿ8ØÌö”Û-
 ‡squid:S4144Ç"hUpdate this method so that its implementation is not identical to "onChkAmirSelectedChange" on line 194.(úğ‹ÿ8™Æ•Û-
-jsquid:CommentedOutCodeLine‹"<This block of commented-out lines of code should be removed.(Óíà™8Î£Í”Û-
-jsquid:UselessImportCheck":Remove this unused import 'de.jensd.fx.glyphs.GlyphIcons'.(áªÚÁûÿÿÿÿ8Î£Í”Û-
-Ksquid:S1602—",Remove useless curly braces around statement(ÃÉş©8Î£Í”Û-
-Œsquid:S4144Ì"hUpdate this method so that its implementation is not identical to "onChkAmirSelectedChange" on line 194.(Øº”¦şÿÿÿÿ8™Æ•Û-
 vsquid:UselessImportCheck"KRemove this unused import 'de.jensd.fx.glyphs.fontawesome.FontAwesomeIcon'.(±Ô‚À8¸…õ”Û-
+isquid:UselessImportCheck">Remove this unused import 'javafx.beans.value.ChangeListener'.(¸÷Í8Î£Í”Û-
 Ysquid:UselessImportCheck".Remove this unused import 'javafx.scene.Node'.(ÑÖ¬ï8Î£Í”Û-
